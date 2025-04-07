@@ -26,7 +26,7 @@ function Projects() {
               title="Art gallery"
               description="The Online Art Gallery is a dynamic and interactive web-based platform designed to showcase a diverse collection of artworks categorized into four main components: Historical, Cars, Nature, and Technical. This platform enables users to explore different artistic themes through a structured and engaging interface. The website is built using HTML, CSS, and Bootstrap, ensuring a responsive and visually appealing design that works seamlessly across devices."
               ghLink="https://github.com/mohdshariq-0033/Art-gallery-react-vite"
-              demoLink="https://artgalleryreact0033.netlify.app/"
+              demoLink="https://artgallery0033.netlify.app/"
             />
           </Col>
 
