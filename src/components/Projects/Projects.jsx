@@ -36,8 +36,8 @@ function Projects() {
               isBlog={false}
               title="MY first portfolio"
               description="This is a responsive and interactive personal portfolio website developed using HTML, CSS, and JavaScript. The website is designed to showcase my skills, projects, experience, and contact information in a visually appealing and professional manner."
-              ghLink="https://github.com/mohdshariq-0033"
-              demoLink="https://portfolio0033.netlify.app/"
+              ghLink="https://github.com/mohdshariq-0033/My-first-portfolio"
+              demoLink="https://portfoliojs0033.netlify.app/"
             />
           </Col>
 
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Shopping"
               description="Discover a seamless and enjoyable shopping experience with [Your Store Name], your one-stop online store for everything you need! Whether you're looking for the latest fashion trends, top tech gadgets, home essentials, or unique gifts, we have it all in one place."
-              ghLink="https://github.com/mohdshariq-0033"
+              ghLink="https://github.com/mohdshariq-0033/E-commerce"
               demoLink="https://shopping0033.netlify.app/"              
             />
           </Col>
@@ -62,7 +62,7 @@ function Projects() {
               This portfolio showcases some of my best work – from concept to execution.
 
               Let’s connect and create something amazing together!"
-              ghLink="https://github.com/mohdshariq-0033"
+              ghLink="https://github.com/mohdshariq-0033/my-latest-portfolio"
               demoLink="/"
             />
           </Col>
