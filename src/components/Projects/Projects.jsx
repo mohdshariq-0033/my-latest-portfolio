@@ -62,7 +62,7 @@ function Projects() {
               This portfolio showcases some of my best work – from concept to execution.
 
               Let’s connect and create something amazing together!"
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              ghLink="https://github.com/mohdshariq-0033"
               demoLink="/"
             />
           </Col>
