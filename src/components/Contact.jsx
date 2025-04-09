@@ -3,7 +3,6 @@ import React from 'react'
 export default function Contact() {
   return (
    <>
-   <h1>hello</h1>
    <section id="contact">
       <form action="https://api.web3forms.com/submit" method="POST">
         <h1 id="hire">Hire Me</h1>
