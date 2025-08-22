@@ -2,7 +2,7 @@ import { Container, Row } from "react-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import pdf from "/shariqResume.pdf";
+import pdf from "/ResumeShariq.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
